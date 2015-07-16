@@ -1,0 +1,49 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "scottybrackett@gmail.com",
+    "longName": "the basics - Loops part 1",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/blank_144x168.png",
+                "name": "BLANK",
+                "type": "png"
+            },
+            {
+                "file": "images/robit-L-2.png",
+                "name": "ROBIT_LEFT2",
+                "type": "png"
+            },
+            {
+                "file": "images/robit-Whistle.png",
+                "name": "ROBIT_WHISTLE",
+                "type": "png"
+            },
+            {
+                "file": "images/robit-R.png",
+                "name": "ROBIT_RIGHT",
+                "type": "png"
+            },
+            {
+                "file": "images/robit-L.png",
+                "name": "ROBIT_LEFT",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "the basics - Loops part 1",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "9374f4e2-6adc-4ac9-8f34-c5238a943c3c",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
